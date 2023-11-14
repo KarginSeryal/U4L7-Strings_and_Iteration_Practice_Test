@@ -79,7 +79,18 @@ public class StrangeWord {
             if(i + o > word.length()){
                 System.out.println(word.substring(i));
             }else{
-                System.out.println(word.substring(i, i + o));
+                System.out.println(word.substring(i, i + o));+
+
+
+
+
+// etst text whatever
+
+
+
+
+
+
             }
         }
 
